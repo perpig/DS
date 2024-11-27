@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 2.8)
+    project(CMakeTest)
+    add_executable(cmaketest List_int.cpp TestSeqList.cpp)

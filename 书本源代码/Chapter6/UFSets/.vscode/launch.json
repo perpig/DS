@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kongxinyi/Desktop/计算机/专业课/数据结构/书本源代码/Chapter6/UFSets",
+      "program": "/Users/kongxinyi/Desktop/计算机/专业课/数据结构/书本源代码/Chapter6/UFSets/build/Debug/outDebug"
+    }
+  ]
+}
